@@ -27,6 +27,7 @@ int main()
     }
 
 }
+
 int winner(char a[3][3],int p)
 {
     int i=0,j=0,hcount=0, vcount=0;
